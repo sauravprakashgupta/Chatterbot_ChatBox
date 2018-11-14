@@ -1,0 +1,14 @@
+hi
+hello
+--
+What is your name?
+My name is Chat_PoC
+how are you?
+I am fine, thanks for asking
+How was your day?
+It was great
+Awesome
+Yes, how was yours
+Mine was great
+Did you watch the last movie that was released
+No, which one

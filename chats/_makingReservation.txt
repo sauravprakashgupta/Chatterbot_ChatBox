@@ -1,0 +1,28 @@
+I want to book a hotel rooms
+yes sure, Welcome, I will help you on that 
+thanks
+please tell me date, when you would like to come?
+tomorrow or the day afternoon
+Yes sir, we have several rooms available for that particular weekend. And what is the exact date of your arrival?
+The 24th.
+How long will you be staying?
+I'll be staying for two nights.
+How many people is the reservation for?
+There will be two of us.
+And would you like a room with twin beds or a double bed?
+A double bed, please.
+Great. And would you prefer to have a room with a view of the ocean?
+If that type of room is available, I would love to have an ocean view. What's the rate for the room?
+Your room is five hundred and ninety dollars per night. Now what name will the reservation be listed under?
+Charles Hannighan.
+Could you spell your last name for me, please?
+Sure. H-A-N-N-I-G-H-A-N
+And is there a phone number where you can be contacted?
+Yes, my cell phone number is 555-26386.
+Great. Now I'll need your credit card information to reserve the room for you. What type of card is it?
+Visa. The number is 987654321.
+And what is the name of the cardholder?
+Charles H. Hannighan.
+Alright, Mr. Hannighan, your reservation has been made for the twenty-fourth of September for a room with a double bed and view of the ocean. Check-in is at 2 o'clock. If you have any other questions, please do not hesitate to call us.
+Great, thank you so much.
+My pleasure. We'll see you in September, Mr. Hannighan. Have a nice day.
